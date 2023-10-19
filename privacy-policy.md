@@ -1,0 +1,60 @@
+Privacy Policy for Night Whisper App
+
+Effective Date: 20 Oct  2023 
+
+Welcome to Night Whisper, the sleeping app dedicated to helping you achieve restful nights. Your privacy is of utmost importance to us, and we are committed to protecting your personal information. This Privacy Policy outlines how we collect, use, disclose, and safeguard your data when you use the Night Whisper app.
+
+Information We Collect
+
+1.1 User-Provided Information: When you create an account or use our app, we may collect information you provide directly, including your name, email address, email and password.
+
+1.2 Automatically Collected Information: We may automatically collect certain information when you use the app, including your device information (such as IP address, device type, and operating system), app usage data (such as session duration, features used, and errors), and analytics data.
+
+1.3 Sleep Data: With your permission, we may collect sleep-related data, including sleep patterns, duration, and sleep quality. This data is used to provide personalized sleep insights.
+
+How We Use Your Information
+
+2.1. Provide Services: We use your information to provide and improve the Night Whisper app, including delivering personalized content, tracking your sleep, and enhancing your user experience.
+
+2.2. Communication: We may use your contact information to send you updates, promotional materials, and notifications related to the app. You can opt out of these communications at any time.
+
+2.3. Research and Analytics: We may use aggregated and anonymized data for research and analytics purposes to improve our app's functionality and effectiveness.
+
+3. Data Sharing and Disclosure
+
+3.1. **Third-Party Service Providers:** We may share your information with trusted third-party service providers who assist us in delivering our services, such as hosting, analytics, and customer support.
+
+3.2. **Legal Compliance:** We may disclose your information when required by law, to protect our rights, or in response to a valid legal request.
+
+**4. Data Security**
+
+We take appropriate measures to protect your information from unauthorized access, disclosure, alteration, or destruction. However, no data transmission or storage method is entirely secure, and we cannot guarantee absolute security.
+
+**5. Data Retention**
+
+We retain your information for as long as necessary to provide our services and fulfill the purposes outlined in this Privacy Policy. You can request the deletion of your account and associated data at any time.
+
+**6. Your Choices**
+
+You have the following choices regarding your data:
+
+6.1. **Access and Correction:** You can access and update your personal information through the app's settings.
+
+6.2. **Data Deletion:** You can request the deletion of your account and associated data by contacting us at [insert contact email].
+
+6.3. **Marketing Communications:** You can opt out of marketing communications by following the instructions provided in our emails or contacting us directly.
+
+**7. Children's Privacy**
+
+Night Whisper is not intended for children under the age of 13. We do not knowingly collect personal information from children under this age.
+
+**8. Changes to this Privacy Policy**
+
+We may update this Privacy Policy periodically to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes by posting a revised Privacy Policy within the app.
+
+**9. Contact Us**
+
+If you have any questions, concerns, or requests regarding your privacy or this Privacy Policy, please contact us at info@nightwhisper.app
+
+By using the Night Whisper app, you consent to the terms of this Privacy Policy. Please review this policy regularly to stay informed about how we handle your data.
+
